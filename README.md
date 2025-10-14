@@ -13,4 +13,4 @@ Este sistema foi desenvolvido em CodeIgniter 4 para gerenciar avaliações de tr
 3. Rode o servidor local
 
 ## 📸 Screenshots
-### Tela inicial <img width="1905" height="880" alt="image" src="https://github.com/user-attachments/assets/bd77762a-3536-493f-99fb-756545b04fc3" />
+![Tela inicial](https://github.com/Lucaslsf5700/Sistema-de-avaliacao-do-simpac/blob/main/Tela-inicial.png)
