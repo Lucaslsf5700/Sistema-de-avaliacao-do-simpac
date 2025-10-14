@@ -13,5 +13,9 @@ Este sistema foi desenvolvido em CodeIgniter 4 para gerenciar avaliações de tr
 3. Rode o servidor local.
 4. Acesse em http://localhost/simpac/public
 
-## 📸 Screenshots
+## 📸 Alguns Screenshots
 ![Tela inicial](https://github.com/Lucaslsf5700/Sistema-de-avaliacao-do-simpac/blob/main/Tela-inicial.png)
+![Login do Administrador](https://github.com/Lucaslsf5700/Sistema-de-avaliacao-do-simpac/blob/main/Login-admin.png)
+![Dashboard do Administrador](https://github.com/Lucaslsf5700/Sistema-de-avaliacao-do-simpac/blob/main/Dash-admin.png)
+![Login do Avaliador](https://github.com/Lucaslsf5700/Sistema-de-avaliacao-do-simpac/blob/main/Login-avaliador.png)
+![Dashboard do Avaliador](https://github.com/Lucaslsf5700/Sistema-de-avaliacao-do-simpac/blob/main/Dash-avaliador.png)
